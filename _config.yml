@@ -21,12 +21,12 @@ repository               : "elizabethjaramillor/elizabethjaramillor.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photoElizabethJaramillo2.png"
   name             : "Elizabeth Jaramillo"
   pronouns         : # example: "she/her"  
   bio              : # 
   location         : "Chicago, IL"
-  employer         : "Red Brick University"
+  employer         : "Northwestern University"
   uri              : # URL
   email            : "ejaramillo@u.northwestern.edu" 
 
