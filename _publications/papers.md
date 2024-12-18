@@ -1,5 +1,5 @@
 ---
 title = "A"
 excerpt: "B"
-collection: publication
+collection: publications
 ---
