@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Overview"
+title: "Eli"
 author_profile: true
 redirect_from: 
   - /about/
