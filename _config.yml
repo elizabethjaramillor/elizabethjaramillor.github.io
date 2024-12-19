@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Elizabeth Jaramillo"
+title                    : "Elizabeth Jaramillo Rojas"
 title_separator          : "-"
-name                     : &name "Elizabeth Jaramillo"
+name                     : &name "Elizabeth Jaramillo Rojas"
 description              : &description "personal description"
 url                      : https://elizabethjaramillor.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "elizabethjaramillor/elizabethjaramillor.github.io"
 author:
   # Biographic information
   avatar           : "photoElizabethJaramillo2.png"
-  name             : "Elizabeth Jaramillo"
+  name             : "Elizabeth Jaramillo Rojas"
   pronouns         : ""
   bio              : # 
   location         : "Chicago, IL"
