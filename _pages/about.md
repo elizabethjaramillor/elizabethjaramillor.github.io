@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Elizabeth Jaramillo Rojas
 
 I am a Ph.D. candidate in Economics at Northwestern University. My research focuses on development and labor economics, with a particular interest in labor markets in developing countries, education, and the role of public policies in improving the lives of the poor.
 
