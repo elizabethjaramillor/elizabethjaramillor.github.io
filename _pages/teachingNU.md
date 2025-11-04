@@ -13,7 +13,7 @@ redirect_from:
 * Economics of Gender (Winter 2024, Fall 2024) 
 * Introduction to Microeconomics (Winter 2023, Spring 2022, Winter 2022, Fall 2021)
 
-  *Distinguished Teaching Assistant Award, Northwestern University 2024*
+  *Distinguished Teaching Assistant Award, Northwestern University 2024 and 2025*
 
 ## Universidad de los Andes
 
