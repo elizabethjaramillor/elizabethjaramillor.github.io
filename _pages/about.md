@@ -93,6 +93,9 @@ We investigate the impact of gender on labor market informality in Brazil, speci
 <strong>Preventing School Dropout through a Teacher Chatbot</strong>  
 (with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Raquel Fernandez, and Ana Teresa del Toro)
 
+<strong>Enhancing Teacher Effectiveness and Student Outcomes through Cognitive Behavioral Therapy: A Randomized Controlled Trial in Ghana’s Public Schools</strong>  
+(with <a href="http://deankarlan.com" target="_blank" rel="noopener">Dean Karlan</a>, Angela Ofori-Atta, Mansa Saxena, Alvis Tang, and <a href="https://sites.northwestern.edu/christopherudry/" target="_blank" rel="noopener">Christopher Udry</a>)
+
 ---
 
 ## Teaching
