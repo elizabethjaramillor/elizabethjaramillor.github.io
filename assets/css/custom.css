@@ -1,1 +1,6 @@
-
+/* Make author photo rectangular and larger */
+.author__avatar img {
+  border-radius: 0 !important;   /* remove the circle */
+  width: 200px !important;       /* pick a size you like */
+  height: auto !important;
+}
