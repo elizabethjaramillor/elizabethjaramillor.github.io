@@ -39,12 +39,13 @@ There is a large proliferation of illegal activities in most countries, which li
 The Effect of Maternity Leave Policies on Local Labor Market Outcomes
 </a></strong>
 <span> (with <a href="https://www.karla-hernandez.com" target="_blank" rel="noopener">Karla Hernandez</a>) </span>
-<span style="cursor:pointer; color:#0072B2; text-decoration:underline; margin-left:0.4rem;"
-      onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block' ? 'none' : 'block');">[Abstract]</span>
 
-<div style="display:none; margin-top:0.5rem;" markdown="1">
+<details style="display:inline;">
+  <summary style="display:inline; cursor:pointer; color:#0072B2; text-decoration:underline; margin-left:0.4rem;">[Abstract]</summary>
+  <div style="margin-top:0.5rem;" markdown="1">
 We investigate the impact of gender on labor market informality in Brazil, specifically examining firms' contract offerings and the gender wage gap. We employ an event study that leverages labor inspections and maternity leave extensions, alongside a structural model, to analyze how firms adjust their hiring practices in anticipation of the costs associated with hiring women. Our study addresses critical questions regarding the determinants of contract offerings, the role of these contracts in contributing to the wage gap, and the strategic use of informal contracts. Our findings reveal significant gender-specific responses from firms following audits, indicating notable differences in hiring and contracting strategies. Furthermore, we plan to explore how the types of contracts offered to women influence the persistent wage gap. By developing a theoretical framework that incorporates worker-side factors influencing contract acceptance, we will enhance our understanding of the dynamics within the informal labor market.
-</div>
+  </div>
+</details>
 
 
 
