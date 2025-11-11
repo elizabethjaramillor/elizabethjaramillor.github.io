@@ -43,7 +43,7 @@ This paper examines how expanding access to higher education affects other membe
 
 <!-- Put title + [Abstract] in the SAME paragraph, with zero margins -->
 <p style="margin:0; padding:0;">
-  <strong><a href="URL_TO_PDF" target="_blank" rel="noopener">Drug Eradication, Agriculture, and the Formal Economy: Spillovers from Coca Fumigation.</a></strong>
+  <strong><a href="URL_TO_PDF" target="_blank" rel="noopener">Drug Eradication, Agriculture, and the Formal Economy: Spillovers from Coca Fumigation. *Draft available soon* </a></strong>
   <span
     style="cursor:pointer; color:#0072B2; text-decoration:underline; margin-left:0.15rem;"
     onclick="var d=document.getElementById('abs-dep'); d.style.display=(d.style.display==='block'?'none':'block');"
