@@ -16,9 +16,7 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
 
 ---
 
-## Research
-
-### Job Market Paper
+## Job Market Paper
 <p style="margin:0; padding:0;">
   <strong>
     <a href="https://raw.githubusercontent.com/elizabethjaramillor/jmp-sibling-spillovers/main/paper/Jaramillo_JMP.pdf" target="_blank" rel="noopener">
