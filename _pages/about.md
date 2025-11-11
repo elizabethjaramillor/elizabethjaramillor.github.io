@@ -20,96 +20,50 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
 
 ### Job Market Paper
 **Beyond Recipients: Sibling Spillovers of College Financial Aid**  
-<a href="/files/jmp_file.pdf" target="_blank" rel="noopener">PDF</a>
-{%- comment -%} Add slides/BibTeX if you have them {%- endcomment -%}
-{%- if site.static_files | where: "path", "/files/jmp_slides.pdf" | size > 0 -%} · <a href="/files/jmp_slides.pdf" target="_blank" rel="noopener">Slides</a>{%- endif -%}
-{%- if site.static_files | where: "path", "/files/jmp.bib" | size > 0 -%} · <a href="/files/jmp.bib" download>BibTeX</a>{%- endif -%}
-
-<details>
-  <summary><em>Abstract</em></summary>
-  <!-- 5–7 line abstract here -->
-</details>
+<!-- Keep only the paper link (no slides). Replace the # with your actual PDF URL -->
+[PDF](#){:target="_blank" rel="noopener"}
 
 ---
 
-### Working Papers & Publications
-{%- assign pubs_sorted = site.publications | sort: "date" | reverse -%}
-{%- if pubs_sorted and pubs_sorted.size > 0 -%}
-{%- for pub in pubs_sorted -%}
-- **{{ pub.title }}**  
-  {%- if pub.authors -%}{{ pub.authors }}.{%- endif -%}
-  {%- if pub.venue -%} <em>{{ pub.venue }}</em>{%- endif -%}
-  {%- if pub.date -%} {{ pub.date | date: "%Y" }}{%- endif -%}
-  {%- if pub.paperurl -%} · <a href="{{ pub.paperurl }}" target="_blank" rel="noopener">PDF</a>{%- endif -%}
-  {%- if pub.doi -%} · <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">DOI</a>{%- endif -%}
-  {%- if pub.slides -%} · <a href="{{ pub.slides }}" target="_blank" rel="noopener">Slides</a>{%- endif -%}
-  {%- if pub.code -%} · <a href="{{ pub.code }}" target="_blank" rel="noopener">Code</a>{%- endif -%}
-  {%- if pub.abstract -%}
-  <details><summary>Abstract</summary>
-  {{ pub.abstract }}
-  </details>
-  {%- endif -%}
-{%- endfor -%}
-{%- else -%}
-_(I’ll list working papers here once they’re added to `_publications/`.)_
-{%- endif -%}
+## Working Papers
+
+- **Beyond Recipients: Sibling Spillovers of College Financial Aid** *with Fabio Sánchez*  
+  <!-- Replace the # with your actual PDF URL -->
+  → [PDF](#){:target="_blank" rel="noopener"}
+
+- **Drug Eradication, Agriculture, and the Formal Economy: Spillovers from Coca Fumigation**  
+  → [PDF](#){:target="_blank" rel="noopener"}
+
+- **The Effect of Maternity Leave Policies on Local Labor Market Outcomes** *with Karla Hernández*  
+  → [PDF](#){:target="_blank" rel="noopener"}
+
+---
+
+## Work in Progress
+
+- **Expanding College Access and the Opportunity Costs of Criminal Engagement** *with Nathalie Basto and Ervyn Norza*  
+  → [PDF (if available)](#){:target="_blank" rel="noopener"}
+
+- **Unpacking School Value Added: Education Quality, Spending, and Crime in Chile** *with Gregory Elacqua and Isabela Munevar*  
+  → [PDF (if available)](#){:target="_blank" rel="noopener"}
+
+- **Preventing School Dropout through a Teacher Chatbot** *with Gregory Elacqua, Raquel Fernandez, and Ana Teresa del Toro*  
+  → [PDF (if available)](#){:target="_blank" rel="noopener"}
 
 ---
 
 ## Teaching
-{%- assign classes_sorted = site.teaching | sort: "date" | reverse -%}
-{%- if classes_sorted and classes_sorted.size > 0 -%}
-<table>
-  <thead>
-    <tr>
-      <th>Course</th>
-      <th>Term</th>
-      <th>Role</th>
-      <th>Materials</th>
-    </tr>
-  </thead>
-  <tbody>
-  {%- for c in classes_sorted -%}
-    <tr>
-      <td>{{ c.title }}</td>
-      <td>
-        {%- if c.semester -%}{{ c.semester }}{%- endif -%}
-        {%- if c.year %} {{ c.year }}{%- endif -%}
-      </td>
-      <td>{{ c.role | default: c.type }}</td>
-      <td>
-        {%- if c.url -%}<a href="{{ c.url }}" target="_blank" rel="noopener">Syllabus</a>{%- endif -%}
-        {%- if c.materials -%}
-          {%- if c.url %} · {%- endif -%}
-          <a href="{{ c.materials }}" target="_blank" rel="noopener">Materials</a>
-        {%- endif -%}
-      </td>
-    </tr>
-  {%- endfor -%}
-  </tbody>
-</table>
-{%- else -%}
-_(I’ll list teaching here once items are in `_teaching/`.)_
-{%- endif -%}
 
----
+<!-- If you have items in _teaching/, you can list them manually here or
+     switch to a small table. Fill in links only to syllabi/materials. -->
 
-## Talks & Media (optional)
-{%- assign talks_sorted = site.talks | sort: "date" | reverse -%}
-{%- if talks_sorted and talks_sorted.size > 0 -%}
-{%- for t in talks_sorted -%}
-- **{{ t.title }}**, {{ t.event }} — {{ t.date | date: "%b %Y" }}
-  {%- if t.location %} ({{ t.location }}){%- endif -%}
-  {%- if t.url %} · <a href="{{ t.url }}" target="_blank" rel="noopener">Details</a>{%- endif -%}
-  {%- if t.slides %} · <a href="{{ t.slides }}" target="_blank" rel="noopener">Slides</a>{%- endif -%}
-  {%- if t.video %} · <a href="{{ t.video }}" target="_blank" rel="noopener">Video</a>{%- endif -%}
-{%- endfor -%}
-{%- else -%}
-_(Add items to `_talks/` to show them here.)_
-{%- endif -%}
+| Course | Term | Role | Materials |
+|---|---|---|---|
+| Economics of Gender | Winter 2024 | TA | [Syllabus](#){:target="_blank" rel="noopener"} |
+| Labor Economics | Spring 2024 | TA | [Syllabus](#){:target="_blank" rel="noopener"} |
+| Intro Micro | Winter 2023 | TA | [Problem Sets](#){:target="_blank" rel="noopener"} |
 
 ---
 
 ## Contact
-You can contact me at <a href="mailto:ejaramillo@u.northwestern.edu">ejaramillo@u.northwestern.edu</a>.  
-CV: <a href="/files/CV1.pdf" target="_blank" rel="noopener">PDF</a>
+You can contact me at <a href="mailto:ejaramillo@u.northwestern.edu">ejaramillo@u.northwestern.edu</a>, and find my CV <a href="/files/CV1.pdf" target="_blank" rel="noopener">here</a>.
