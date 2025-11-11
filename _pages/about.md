@@ -88,10 +88,10 @@ We investigate the impact of gender on labor market informality in Brazil, speci
 (with Nathalie Basto and Ervyn Norza)
 
 <strong>Unpacking School Value Added: Education Quality, Spending, and Crime in Chile</strong>  
-(with Gregory Elacqua and Isabela Munevar)
+(with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a> and <a href="https://www.karla-hernandez.com" target="_blank" rel="noopener">Isabela Munevar</a>)
 
 <strong>Preventing School Dropout through a Teacher Chatbot</strong>  
-(with Gregory Elacqua, Raquel Fernandez, and Ana Teresa del Toro)
+(with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Raquel Fernandez, and Ana Teresa del Toro)
 
 ---
 
