@@ -25,8 +25,7 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
 
 ## Working Papers
 
-- **Drug Eradication, Agriculture, and the Formal Economy: Spillovers from Coca Fumigation**  
-  <span style="cursor:pointer; color:#0072B2; text-decoration:underline;"
+- **Drug Eradication, Agriculture, and the Formal Economy: Spillovers from Coca Fumigation** <span style="cursor:pointer; color:#0072B2; text-decoration:underline;"
         onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block' ? 'none' : 'block');">
     [Abstract]
   </span>
