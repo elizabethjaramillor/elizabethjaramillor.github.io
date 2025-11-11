@@ -104,7 +104,7 @@ Introduction to Microeconomics — Winter 2023, Spring 2022, Winter 2022, Fall 2
 
 *Distinguished Teaching Assistant Award, Northwestern University 2024 and 2025*
 
-*Student evaluations available* → <a href="/files/teachingevaluations.pdf" target="_blank" rel="noopener">Click here</a>
+→ <a href="/files/teachingevaluations.pdf" target="_blank" rel="noopener">Download Teaching Evaluations (PDF)</a>
 
 
 **Teaching Assistant, Universidad de Los Andes**  
