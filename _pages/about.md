@@ -43,12 +43,18 @@ This paper examines how expanding access to higher education affects other membe
 
 <!-- Put title + [Abstract] in the SAME paragraph, with zero margins -->
 <p style="margin:0; padding:0;">
-  <strong><a href="URL_TO_PDF" target="_blank" rel="noopener">Drug Eradication, Agriculture, and the Formal Economy: Spillovers from Coca Fumigation. </a></strong> <em>Draft available soon</em>
+  <strong>
+    <span style="color:#0072B2; text-decoration:underline;">
+      Drug Eradication, Agriculture, and the Formal Economy: Spillovers from Coca Fumigation.
+    </span>
+  </strong>
+  <em>Draft available soon</em>
   <span
     style="cursor:pointer; color:#0072B2; text-decoration:underline; margin-left:0.15rem;"
     onclick="var d=document.getElementById('abs-dep'); d.style.display=(d.style.display==='block'?'none':'block');"
   >[Abstract]</span>
 </p>
+
 
 <!-- Abstract block: no top margin so it sits tight under the title line -->
 <div id="abs-dep" style="display:none; margin-top:0; padding-top:0;" markdown="1">
@@ -93,8 +99,7 @@ Economics of Gender — Winter 2025, Winter 2024, Fall 2024
 Labor Economics — Spring 2024, Fall 2022  
 Introduction to Microeconomics — Winter 2023, Spring 2022, Winter 2022, Fall 2021  
 
-*Student evaluations available* →  
-<a href="/files/teachingevaluations.pdf" target="_blank" rel="noopener">Click here</a>
+*Student evaluations available* → <a href="/files/teachingevaluations.pdf" target="_blank" rel="noopener">Click here</a>
 
 <br>
 
