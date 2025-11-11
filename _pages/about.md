@@ -105,7 +105,8 @@ Economics of Gender — Winter 2025, Winter 2024, Fall 2024
 Labor Economics — Spring 2024, Fall 2022  
 Introduction to Microeconomics — Winter 2023, Spring 2022, Winter 2022, Fall 2021  
 
-*Distinguished Teaching Assistant Award, Northwestern University 2024 and 2025* → <a href="/files/teachingevaluations.pdf" target="_blank" rel="noopener">Download Teaching Evaluations (PDF)</a>
+*Distinguished Teaching Assistant Award, Northwestern University 2024 and 2025* 
+→ <a href="/files/teachingevaluations.pdf" target="_blank" rel="noopener">Download Teaching Evaluations (PDF)</a>
 
 
 **Teaching Assistant, Universidad de Los Andes**  
