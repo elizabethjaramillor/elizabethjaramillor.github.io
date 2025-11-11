@@ -1,1 +1,14 @@
+/* Make author photo rectangular and larger */
+.author__avatar { 
+  width: 200px !important;          /* container width */
+}
+.author__avatar img {
+  border-radius: 0 !important;      /* remove circle */
+  width: 100% !important;           /* fill container */
+  height: auto !important;
+}
+
+/* (optional) Only on homepage */
+// .layout--home .author__avatar { width: 220px !important; }
+// .layout--home .author__avatar img { border-radius: 0 !important; }
 
