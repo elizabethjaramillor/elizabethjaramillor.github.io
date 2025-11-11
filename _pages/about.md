@@ -95,8 +95,3 @@ We investigate the impact of gender on labor market informality in Brazil, speci
 | Economics of Gender | Winter 2024 | TA | [Syllabus](#){:target="_blank" rel="noopener"} |
 | Labor Economics | Spring 2024 | TA | [Syllabus](#){:target="_blank" rel="noopener"} |
 | Intro Micro | Winter 2023 | TA | [Problem Sets](#){:target="_blank" rel="noopener"} |
-
----
-
-## Contact
-You can contact me at <a href="mailto:ejaramillo@u.northwestern.edu">ejaramillo@u.northwestern.edu</a>, and find my CV <a href="/files/CV1.pdf" target="_blank" rel="noopener">here</a>.
