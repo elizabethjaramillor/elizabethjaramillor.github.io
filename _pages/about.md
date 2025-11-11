@@ -106,7 +106,5 @@ Introduction to Microeconomics — Winter 2023, Spring 2022, Winter 2022, Fall 2
 
 *Student evaluations available* → <a href="/files/teachingevaluations.pdf" target="_blank" rel="noopener">Click here</a>
 
-<br>
-
 **Teaching Assistant, Universidad de Los Andes**  
 Intermediate Econometrics — January 2014 – December 2014
