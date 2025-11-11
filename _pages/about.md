@@ -19,7 +19,23 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
 ## Research
 
 ### Job Market Paper
-- **[Beyond Recipients: Sibling Spillovers of College Financial Aid](https://raw.githubusercontent.com/elizabethjaramillor/jmp-sibling-spillovers/main/paper/Jaramillo_JMP.pdf){:target="_blank" rel="noopener"}** (with Fabio Sánchez)
+<p style="margin:0; padding:0;">
+  <strong>
+    <a href="https://raw.githubusercontent.com/elizabethjaramillor/jmp-sibling-spillovers/main/paper/Jaramillo_JMP.pdf" target="_blank" rel="noopener">
+      Beyond Recipients: Sibling Spillovers of College Financial Aid
+    </a>
+  </strong>
+  (with Fabio Sánchez)
+  <span
+    style="cursor:pointer; color:#0072B2; text-decoration:underline; margin-left:0.15rem;"
+    onclick="var d=document.getElementById('abs-jmp'); d.style.display=(d.style.display==='block'?'none':'block');"
+  >[Abstract]</span>
+</p>
+
+<div id="abs-jmp" style="display:none; margin-top:0; padding-top:0;" markdown="1">
+This paper examines how expanding access to higher education affects other members of the household. We study sibling spillovers from Ser Pilo Paga, a financial aid program introduced in Colombia in 2014 that offered full scholarships to high-achieving students from low-income families. Using administrative data that link siblings across years and exploiting the program’s eligibility thresholds, we estimate how younger siblings respond when an older sibling qualifies for financial aid. Younger siblings of eligible students perform better in school and are more likely to continue to higher education. They score 0.11 standard deviations higher on the national high school exam and are 14 percent more likely to enroll in higher education, with enrollment shifting toward high-quality universities. In the labor market, younger siblings in treated families work less in the short run, consistent with increased time in school, and their employment and earnings later converge to those of similar households without scholarships. Convictions for criminal offenses fall by about 60 percent, concentrated among poorer families. To understand how these effects arise, we combine university records of older siblings with early standardized tests of younger ones. The results show that spillovers appear early and are stronger when the older sibling performs well in college. The evidence points to intangible channels, including motivation, aspirations, and perceived returns to education, rather than to direct financial relief as the main mechanism behind these within-family effects.
+</div>
+
 
 ---
 
