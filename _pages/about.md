@@ -34,8 +34,18 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
 There is a large proliferation of illegal activities in most countries, which likely has deep economic implications. This paper evaluates the interaction between illegal activities and the formal economy. To do this, I take advantage of one of the largest anti-drug actions in a drug producing country: Colombia's Drug Eradication Program (DEP). The program began in 1994, but in 1999, it saw a significant escalation when aerial spraying of industrial coca crops became the cornerstone of Plan Colombia. Importantly, before 2003, a decree exempted peasants with no more than three hectares from being sprayed, as aerial fumigations were justified as only targeting commercial plantations. My analysis yields three main results. First, I find that coca cultivation decreases by 63 percent in commercial plantations. Second, I show the presence of spillover effects resulting from the DEP. I use a difference-in-differences design leveraging time variation (before and after the start of Plan Colombia in 1999) and spatial variation by comparing municipalities suitable for coca cultivation with less suitable ones. Compared to the control group, suitable areas (outside of commercial plantations) saw an average increase of 21 hectares of coca cultivation per 1,000 hectares of agricultural land. Third, I then ask how anti-drug actions in key coca hubs leads to an increase in coca in other suitable municipalities. I find that one of the mechanisms behind this shift is consistent with internal migration. I also show that when demand for illicit crops increases, tax revenue from commerce and industry decreases by 10.2 percent.
   </div>
 
-- **The Effect of Maternity Leave Policies on Local Labor Market Outcomes** *with Karla Hernández*  
-  → [PDF](#){:target="_blank" rel="noopener"}
+- **The Effect of Maternity Leave Policies on Local Labor Market Outcomes**  
+  *with Karla Hernández*
+
+  <button class="btn" type="button" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block' ? 'none' : 'block');">
+    Abstract
+  </button>
+
+  <div style="display:none; margin-top:0.5rem;">
+
+We investigate the impact of gender on labor market informality in Brazil, specifically examining firms' contract offerings and the gender wage gap. We employ an event study that leverages labor inspections and maternity leave extensions, alongside a structural model, to analyze how firms adjust their hiring practices in anticipation of the costs associated with hiring women. Our study addresses critical questions regarding the determinants of contract offerings, the role of these contracts in contributing to the wage gap, and the strategic use of informal contracts. Our findings reveal significant gender-specific responses from firms following audits, indicating notable differences in hiring and contracting strategies. Furthermore, we plan to explore how the types of contracts offered to women influence the persistent wage gap. By developing a theoretical framework that incorporates worker-side factors influencing contract acceptance, we will enhance our understanding of the dynamics within the informal labor market.
+
+  </div>
 
 ---
 
