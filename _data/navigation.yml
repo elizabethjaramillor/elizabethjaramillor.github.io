@@ -5,11 +5,11 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Research"
-    url: /markdown/
+ # - title: "Research"
+ #   url: /markdown/
 
-  - title: "Teaching"
-    url: /teachingNU/   
+ # - title: "Teaching"
+ #   url: /teachingNU/   
   
   - title: "CV"
     url: /files/CV1.pdf
