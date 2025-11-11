@@ -37,7 +37,6 @@ There is a large proliferation of illegal activities in most countries, which li
 
 - **The Effect of Maternity Leave Policies on Local Labor Market Outcomes**  
   *(with <a href="https://www.karla-hernandez.com" target="_blank" rel="noopener">Karla Hernandez</a>*)
-
   <span style="cursor:pointer; color:#0072B2; text-decoration:underline;"
         onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block' ? 'none' : 'block');">
     [Abstract]
