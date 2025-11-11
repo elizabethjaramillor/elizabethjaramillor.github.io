@@ -19,7 +19,7 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
 ## Research
 
 ### Job Market Paper
-- **[Beyond Recipients: Sibling Spillovers of College Financial Aid](/files/jmp_file.pdf){:target="_blank" rel="noopener"}**  
+- **[Beyond Recipients: Sibling Spillovers of College Financial Aid](https://raw.githubusercontent.com/elizabethjaramillor/jmp-sibling-spillovers/main/paper/Jaramillo_JMP.pdf){:target="_blank" rel="noopener"}**  
   *with Fabio Sánchez*
 
 ---
