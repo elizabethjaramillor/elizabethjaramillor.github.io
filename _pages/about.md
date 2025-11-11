@@ -61,7 +61,9 @@ This paper examines how expanding access to higher education affects other membe
 There is a large proliferation of illegal activities in most countries, which likely has deep economic implications. This paper evaluates the interaction between illegal activities and the formal economy. To do this, I take advantage of one of the largest anti-drug actions in a drug producing country: Colombia's Drug Eradication Program (DEP). The program began in 1994, but in 1999, it saw a significant escalation when aerial spraying of industrial coca crops became the cornerstone of Plan Colombia. Importantly, before 2003, a decree exempted peasants with no more than three hectares from being sprayed, as aerial fumigations were justified as only targeting commercial plantations. My analysis yields three main results. First, I find that coca cultivation decreases by 63 percent in commercial plantations. Second, I show the presence of spillover effects resulting from the DEP. I use a difference-in-differences design leveraging time variation (before and after the start of Plan Colombia in 1999) and spatial variation by comparing municipalities suitable for coca cultivation with less suitable ones. Compared to the control group, suitable areas (outside of commercial plantations) saw an average increase of 21 hectares of coca cultivation per 1,000 hectares of agricultural land. Third, I then ask how anti-drug actions in key coca hubs leads to an increase in coca in other suitable municipalities. I find that one of the mechanisms behind this shift is consistent with internal migration. I also show that when demand for illicit crops increases, tax revenue from commerce and industry decreases by 10.2 percent.
 </div>
 
+
 <div style="height:1rem;"></div>
+
 
 <p style="margin:0; padding:0;">
   <strong>
