@@ -85,7 +85,7 @@ We investigate the impact of gender on labor market informality in Brazil, speci
 ## Work in Progress
 
 <strong>Expanding College Access and the Opportunity Costs of Criminal Engagement</strong>  
-(with Nathalie Basto and Ervyn Norza)
+(with Nathalie Basto and <a href="https://cienciassociales.uniandes.edu.co/ciencia-politica-estudios-globales/estudiantes-posgrado/ervyn-norza-cespedes/" target="_blank" rel="noopener">Ervyn Norza</a>)
 
 <strong>Unpacking School Value Added: Education Quality, Spending, and Crime in Chile</strong>  
 (with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a> and <a href="https://www.isabelamunevar.com" target="_blank" rel="noopener">Isabela Munevar</a>)
