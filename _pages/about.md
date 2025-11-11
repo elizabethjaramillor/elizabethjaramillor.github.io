@@ -27,10 +27,6 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
 
 ## Working Papers
 
-- **Beyond Recipients: Sibling Spillovers of College Financial Aid** *with Fabio Sánchez*  
-  <!-- Replace the # with your actual PDF URL -->
-  → [PDF](#){:target="_blank" rel="noopener"}
-
 - **Drug Eradication, Agriculture, and the Formal Economy: Spillovers from Coca Fumigation**  
   → [PDF](#){:target="_blank" rel="noopener"}
 
