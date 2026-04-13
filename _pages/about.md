@@ -89,7 +89,7 @@ We investigate the impact of gender on labor market informality in Brazil, speci
 
 <strong>Scalable Mentoring for Teachers: Evidence from an AI Intervention</strong>  
 (with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Ana Teresa del Toro, Catalina Hermosillo)
-<p style="margin:0; padding:0; color:gray; font-style:italic;">[Registered in the AEA RCT Registry, unique identifying number: <a href="https://www.socialscienceregistry.org/trials/17934" target="_blank" rel="noopener" style="color:gray;">AEARCTR-0017934</a>]</p>
+<br><span style="color:gray; font-style:italic;">[Registered in the AEA RCT Registry, unique identifying number: <a href="https://www.socialscienceregistry.org/trials/17934" target="_blank" rel="noopener" style="color:gray;">AEARCTR-0017934</a>]</span>
 
 <strong>An Early Warning System for Teachers: AI-Powered Dropout Prevention at Scale in Guatemala</strong>  
 (with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Raquel Fernandez, and Ana Teresa del Toro)
