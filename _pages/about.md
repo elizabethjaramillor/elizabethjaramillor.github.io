@@ -87,10 +87,12 @@ We investigate the impact of gender on labor market informality in Brazil, speci
 <strong>Expanding College Access and the Opportunity Costs of Criminal Engagement</strong>  
 (with Nathalie Basto and <a href="https://cienciassociales.uniandes.edu.co/ciencia-politica-estudios-globales/estudiantes-posgrado/ervyn-norza-cespedes/" target="_blank" rel="noopener">Ervyn Norza</a>)
 
-<strong>Unpacking School Value Added: Education Quality, Spending, and Crime in Chile</strong>  
-(with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a> and <a href="https://www.isabelamunevar.com" target="_blank" rel="noopener">Isabela Munevar</a>)
+<strong>Scalable Mentoring for Teachers: Evidence from an AI Intervention</strong>  
+(with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Ana Teresa del Toro, Catalina Hermosillo)
 
-<strong>Preventing School Dropout through a Teacher Chatbot</strong>  
+<p style="margin:0; padding:0; color:gray; font-style:italic;">[Registered in the AEA RCT Registry, unique identifying number: <a href="https://www.socialscienceregistry.org/trials/17934" target="_blank" rel="noopener" style="color:gray;">AEARCTR-0017934</a>]</p>
+
+<strong>An Early Warning System for Teachers: AI-Powered Dropout Prevention at Scale in Guatemala</strong>  
 (with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Raquel Fernandez, and Ana Teresa del Toro)
 
 <strong>Enhancing Teacher Effectiveness and Student Outcomes through Cognitive Behavioral Therapy: A Randomized Controlled Trial in Ghana’s Public Schools</strong>  
