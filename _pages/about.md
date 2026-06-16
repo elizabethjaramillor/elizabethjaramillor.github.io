@@ -24,6 +24,8 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
     </a>
   </strong>
   (with <a href="https://economia.uniandes.edu.co/en/sanchez" target="_blank" rel="noopener">Fabio Sanchez</a>)
+  <a href="https://ssrn.com/abstract=6845259" target="_blank" rel="noopener"
+     style="color:#0072B2; text-decoration:underline; margin-left:0.15rem;">[SSRN]</a>
   <span
     style="cursor:pointer; color:#0072B2; text-decoration:underline; margin-left:0.15rem;"
     onclick="var d=document.getElementById('abs-jmp'); d.style.display=(d.style.display==='block'?'none':'block');"
@@ -33,7 +35,6 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
 <div id="abs-jmp" style="display:none; margin-top:0; padding-top:0;" markdown="1">
 This paper studies the spillover effects of college financial aid on younger siblings. We exploit the eligibility rules of \textit{Ser Pilo Paga} (SPP), a large-scale merit- and need-based scholarship program in Colombia, to estimate how having a college-going older sibling affects younger siblings' educational, labor market, and criminal outcomes. When an older sibling qualifies for SPP, younger siblings are more likely to enroll in higher education and in higher-quality institutions, experience temporary declines in formal employment consistent with increased educational investment, and are less likely to be convicted of a crime. The probability that younger siblings themselves qualify for an SPP scholarship rises by 42 percent. Younger siblings of students who narrowly missed the eligibility threshold, and whose families therefore received no financial transfer from the program, also show significant gains in enrollment and reductions in criminal convictions. This pattern is consistent with aspirational and motivational spillovers that operate independently of household resource relief. Spillover effects on enrollment and test scores emerge only when the older sibling performs well in college, are largest in first-generation college families and among siblings close in age, and are present in standardized test scores as early as age eight or nine. The evidence points to aspirations, motivation, and revised beliefs about the returns to education as the primary channels through which college access for one child reshapes the trajectories of others in the same household.
 </div>
-
 
 ---
 
