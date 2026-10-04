@@ -34,6 +34,10 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
 <strong>A Dynamic Analysis of Teachers' Allocation Mechanisms</strong> (with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Paula Jaramillo, and Çağatay Kayı) <em>[Draft available soon]</em>
 </div>
 
+<div style="margin-bottom:1rem;">
+<strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7356838" target="_blank" rel="noopener">Dynamic Complementarities in the Production of Human Capital</a></strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7356838" target="_blank" rel="noopener" style="color:#0072B2; text-decoration:underline;">[SSRN]</a> <em>[Submitted]</em>
+</div>
+
 ---
 
 ## Work in Progress
