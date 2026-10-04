@@ -16,7 +16,7 @@ I also work on the design and evaluation of artificial intelligence tools for th
 
 I hold a MSc in Econometrics and Mathematical Economics from Tilburg University, and a MA in Economics, a BSc in Industrial Engineering, and a BA in Economics from Universidad de los Andes.
 
-You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northwestern.edu).
+You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northwestern.edu), and find my CV [here](/files/CV1.pdf).
 
 ---
 
