@@ -8,15 +8,15 @@ redirect_from:
 ---
 # Elizabeth Jaramillo-Rojas
 
-I am an economist working at the Inter-American Development Bank on the Knowledge Team of the Education Division. I hold a Ph.D. in Economics from Northwestern University.
+I am an economist working at the Inter-American Development Bank on the Research Team of the Education Division. I hold a Ph.D. in Economics from Northwestern University.
 
 My research focuses on the economics of education and the economics of crime and violence prevention, with a particular interest in how public policy can improve the lives of the poor in Latin America and the Caribbean. I study the impact of education, social, and drug policies on schooling, crime, and local economic activity, using randomized controlled trials and quasi-experimental methods.
 
-I also work on the design and evaluation of artificial intelligence tools for education and violence prevention in the public sector. Alongside my research, I work with governments across the region on the design and implementation of public programs.
+I also work on the design and evaluation of artificial intelligence tools for the public sector. Alongside my research, I work with governments across the region on the design and implementation of public programs.
 
 I hold a MSc in Econometrics and Mathematical Economics from Tilburg University, and a MA in Economics, a BSc in Industrial Engineering, and a BA in Economics from Universidad de los Andes.
 
-You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northwestern.edu), and find my CV [here](/files/CV1.pdf).
+You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northwestern.edu).
 
 ---
 
