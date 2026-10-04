@@ -42,23 +42,20 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
 (with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Ana Teresa del Toro, and Catalina Hermosilla)
 <br><span style="color:gray; font-style:italic;">[Registered in the AEA RCT Registry, unique identifying number: <a href="https://www.socialscienceregistry.org/trials/17934" target="_blank" rel="noopener" style="color:gray;">AEARCTR-0017934</a>]</span>
 
-<strong>Expanding College Access and the Opportunity Costs of Criminal Engagement</strong>  
-(with <a href="https://cienciassociales.uniandes.edu.co/ciencia-politica-estudios-globales/estudiantes-posgrado/ervyn-norza-cespedes/" target="_blank" rel="noopener">Ervyn Norza</a>)
-
-<strong>Technical High Schools, Labor Market Outcomes, and Crime: Evidence from Brazil</strong>  
-(with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a> and Maria Fernanda Prada)
-
 <strong>Hidden Strengths: Adversity, Adaptation, and the Measurement of Skills</strong>  
 (with <a href="https://www.tc.columbia.edu/doctoral-student-profiles/profiles/campos-quintero-2518.php" target="_blank" rel="noopener">Alejandra Campos-Quintero</a>)
+
+<strong>The Hidden Career Effects of Extended Paid Leave: Evidence from Brazil</strong>  
+(with <a href="https://www.karla-hernandez.com" target="_blank" rel="noopener">Karla Hernandez</a>)
+
+<strong>An Early Warning System for Teachers: AI-Powered Dropout Prevention at Scale in Guatemala</strong>
+(with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Raquel Fernández, and Ana Teresa del Toro) <em style="color:#666;">Pilot in progress</em>
 
 <strong>Technical and Vocational Education and Criminal Involvement: Evidence from Colombia's Dual Certification Program</strong>  
 (with <a href="https://academia.uniandes.edu.co/AcademyCv/fasanche" target="_blank" rel="noopener">Fabio Sanchez</a>, Maria Fernanda Prada, and <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>)
 
-<strong>The Effect of Maternity Leave Policies on Local Labor Market Outcomes</strong>  
-(with <a href="https://www.karla-hernandez.com" target="_blank" rel="noopener">Karla Hernandez</a>)
-
-<strong>An Early Warning System for Teachers: AI-Powered Dropout Prevention at Scale in Guatemala</strong>  
-(with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Raquel Fernandez, and Ana Teresa del Toro)
+<strong>Expanding College Access and the Opportunity Costs of Criminal Engagement</strong>  
+(with <a href="https://cienciassociales.uniandes.edu.co/ciencia-politica-estudios-globales/estudiantes-posgrado/ervyn-norza-cespedes/" target="_blank" rel="noopener">Ervyn Norza</a>)
 
 ---
 
