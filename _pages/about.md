@@ -53,7 +53,7 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
 (with <a href="https://www.karla-hernandez.com" target="_blank" rel="noopener">Karla Hernandez</a>)
 
 <strong>An Early Warning System for Teachers: AI-Powered Dropout Prevention at Scale in Guatemala</strong>
-(with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Raquel Fernández, and Ana Teresa del Toro) <em style="color:#666;">Pilot in progress</em>
+(with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Raquel Fernández, and Ana Teresa del Toro) <em style="color:#666;">[Pilot in progress]</em>
 
 <strong>Technical and Vocational Education and Criminal Involvement: Evidence from Colombia's Dual Certification Program</strong>  
 (with <a href="https://academia.uniandes.edu.co/AcademyCv/fasanche" target="_blank" rel="noopener">Fabio Sanchez</a>, Maria Fernanda Prada, and <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>)
