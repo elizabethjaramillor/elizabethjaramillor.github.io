@@ -22,19 +22,19 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
 
 ## Working Papers
 
-<div style="margin-bottom:1rem;">
+<div style="margin-bottom:1.75rem;">
 <strong><a href="https://raw.githubusercontent.com/elizabethjaramillor/jmp-sibling-spillovers/main/paper/Jaramillo_JMP.pdf" target="_blank" rel="noopener">Beyond Recipients: Sibling Spillovers of College Financial Aid</a></strong> (with <a href="https://academia.uniandes.edu.co/AcademyCv/fasanche" target="_blank" rel="noopener">Fabio Sanchez</a>) <a href="https://ssrn.com/abstract=6845259" target="_blank" rel="noopener" style="color:#0072B2; text-decoration:underline;">[SSRN]</a>
 </div>
 
-<div style="margin-bottom:1rem;">
+<div style="margin-bottom:1.75rem;">
 <strong>Drug Eradication, Agriculture, and the Formal Economy: Spillovers from Coca Fumigation</strong> <em>[Draft available soon]</em>
 </div>
 
-<div style="margin-bottom:1rem;">
+<div style="margin-bottom:1.75rem;">
 <strong>A Dynamic Analysis of Teachers' Allocation Mechanisms</strong> (with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Paula Jaramillo, and Çağatay Kayı) <em>[Draft available soon]</em>
 </div>
 
-<div style="margin-bottom:1rem;">
+<div style="margin-bottom:1.75rem;">
 <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7356838" target="_blank" rel="noopener">Dynamic Complementarities in the Production of Human Capital</a></strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7356838" target="_blank" rel="noopener" style="color:#0072B2; text-decoration:underline;">[SSRN]</a> <em>[Submitted]</em>
 </div>
 
