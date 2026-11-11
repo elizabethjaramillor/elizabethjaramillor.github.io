@@ -47,7 +47,8 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
 <br><span style="color:gray; font-style:italic;">[R&amp;R, Journal of Development Economics (Stage 1), <a href="https://www.socialscienceregistry.org/trials/17934" target="_blank" rel="noopener" style="color:gray;">AEARCTR-0017934</a>]</span>
 
 <strong>Hidden Strengths: Adversity, Adaptation, and the Measurement of Skills</strong>  
-(with <a href="https://www.tc.columbia.edu/doctoral-student-profiles/profiles/campos-quintero-2518.php" target="_blank" rel="noopener">Alejandra Campos-Quintero</a>)
+(with <a href="https://www.tc.columbia.edu/doctoral-student-profiles/profiles/campos-quintero-2518.php" target="_blank" rel="noopener">Alejandra Campos-Quintero</a>) <a href="https://osf.io/6adm2" target="_blank" rel="noopener" style="color:#0072B2; text-decoration:underline;">[Pre-registration]</a>
+<br><span style="color:gray; font-style:italic;">[Lab experiment in progress, <a href="https://osf.io/6adm2" target="_blank" rel="noopener" style="color:gray;">pre-registered at OSF</a>]</span>
 
 <strong>The Hidden Career Effects of Extended Paid Leave: Evidence from Brazil</strong>  
 (with <a href="https://www.karla-hernandez.com" target="_blank" rel="noopener">Karla Hernandez</a>)
