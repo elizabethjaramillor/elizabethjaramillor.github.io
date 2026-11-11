@@ -50,11 +50,11 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
 (with <a href="https://www.tc.columbia.edu/doctoral-student-profiles/profiles/campos-quintero-2518.php" target="_blank" rel="noopener">Alejandra Campos-Quintero</a>) <a href="https://osf.io/6adm2" target="_blank" rel="noopener" style="color:#0072B2; text-decoration:underline;">[Pre-registration]</a>
 <br><span style="color:gray; font-style:italic;">[Lab experiment in progress, <a href="https://osf.io/6adm2" target="_blank" rel="noopener" style="color:gray;">pre-registered at OSF</a>]</span>
 
+<strong>An Early Warning System for Teachers: AI-Powered Dropout Prevention at Scale in Guatemala</strong>
+(with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Raquel Fernández, and Ana Teresa del Toro) <em style="color:#666;">[Pilot completed]</em>
+
 <strong>The Hidden Career Effects of Extended Paid Leave: Evidence from Brazil</strong>  
 (with <a href="https://www.karla-hernandez.com" target="_blank" rel="noopener">Karla Hernandez</a>)
-
-<strong>An Early Warning System for Teachers: AI-Powered Dropout Prevention at Scale in Guatemala</strong>
-(with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Raquel Fernández, and Ana Teresa del Toro) <em style="color:#666;">[Pilot in progress]</em>
 
 <strong>Technical and Vocational Education and Criminal Involvement: Evidence from Colombia's Dual Certification Program</strong>  
 (with <a href="https://academia.uniandes.edu.co/AcademyCv/fasanche" target="_blank" rel="noopener">Fabio Sanchez</a>, Maria Fernanda Prada, and <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>)
