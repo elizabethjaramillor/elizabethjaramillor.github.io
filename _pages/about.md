@@ -42,9 +42,9 @@ You can contact me at [ejaramillo@u.northwestern.edu](mailto:ejaramillo@u.northw
 
 ## Work in Progress
 
-<strong>Scalable Mentoring for Teachers: Evidence from an AI Intervention</strong>  
+<strong><a href="https://www.socialscienceregistry.org/trials/17934" target="_blank" rel="noopener">Scalable Mentoring for Teachers: Evidence from an AI Intervention</a></strong>  
 (with <a href="https://sites.google.com/view/gregoryelacqua/home?authuser=0" target="_blank" rel="noopener">Gregory Elacqua</a>, Ana Teresa del Toro, and Catalina Hermosilla)
-<br><span style="color:gray; font-style:italic;">[Registered in the AEA RCT Registry, unique identifying number: <a href="https://www.socialscienceregistry.org/trials/17934" target="_blank" rel="noopener" style="color:gray;">AEARCTR-0017934</a>]</span>
+<br><span style="color:gray; font-style:italic;">[R&amp;R, Journal of Development Economics (Stage 1), <a href="https://www.socialscienceregistry.org/trials/17934" target="_blank" rel="noopener" style="color:gray;">AEARCTR-0017934</a>]</span>
 
 <strong>Hidden Strengths: Adversity, Adaptation, and the Measurement of Skills</strong>  
 (with <a href="https://www.tc.columbia.edu/doctoral-student-profiles/profiles/campos-quintero-2518.php" target="_blank" rel="noopener">Alejandra Campos-Quintero</a>)
