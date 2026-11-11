@@ -8,7 +8,7 @@ redirect_from:
 ---
 # Elizabeth Jaramillo-Rojas
 
-I am an economist working at the Inter-American Development Bank on the Research Team of the Education Division. I hold a Ph.D. in Economics from Northwestern University.
+I am an Economist working at the Education Division of the Inter-American Development Bank. I hold a Ph.D. in Economics from Northwestern University.
 
 My research focuses on the economics of education and the economics of crime and violence prevention, with a particular interest in how public policy can improve the lives of the poor. I study the impact of education, social, and drug policies on schooling, crime, and local economic activity, using randomized controlled trials and quasi-experimental methods.
 
